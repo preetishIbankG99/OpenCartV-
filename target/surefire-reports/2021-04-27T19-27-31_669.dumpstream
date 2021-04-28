@@ -1,0 +1,4 @@
+# Created at 2021-04-27T19:28:03.309
+Boot Manifest-JAR contains absolute paths in classpath 'H:\photonwp\opencartV1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

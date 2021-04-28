@@ -1,0 +1,144 @@
+07:15:16.746 [TestNG-tests-1] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+07:15:16.752 [TestNG-tests-1] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+07:15:16.774 [TestNG-tests-1] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@19e49641
+07:15:16.775 [TestNG-tests-1] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@42621e0b
+07:15:16.777 [TestNG-tests-1] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7f89de98
+07:15:16.779 [TestNG-tests-1] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@27571149
+07:15:16.780 [TestNG-tests-1] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4b250dbb
+07:15:16.781 [TestNG-tests-1] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@19e5c092
+07:15:16.782 [TestNG-tests-1] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2829b028
+07:15:16.783 [TestNG-tests-1] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@376b313d
+07:15:16.822 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 8
+07:15:16.822 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 8
+07:15:16.823 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+07:15:16.824 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 11
+07:15:16.824 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 16777216
+07:15:16.824 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+07:15:16.824 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+07:15:16.824 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+07:15:16.824 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+07:15:16.825 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+07:15:16.826 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: true
+07:15:16.828 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+07:15:16.854 [TestNG-tests-1] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+07:15:16.854 [TestNG-tests-1] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+07:15:16.855 [TestNG-tests-1] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+07:15:17.813 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 25436 (auto-detected)
+07:15:17.815 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+07:15:17.816 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+07:15:18.164 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+07:15:18.165 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+07:15:18.565 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 7c:67:a2:ff:fe:63:71:fd (auto-detected)
+07:15:18.642 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+07:15:18.642 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+07:15:18.642 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@75d5a2f7
+07:15:18.689 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+07:15:18.689 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+07:15:18.689 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+07:15:18.689 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+07:15:18.689 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.delayedQueue.ratio: 8
+07:15:20.264 [TestNG-tests-1] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xa56d85e53ef84c32
+07:15:20.341 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+07:15:20.403 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration -  Starting TC_001_AccountRegistration 
+07:15:22.827 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed 
+07:15:23.588 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on My Account 
+07:15:25.418 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register 
+07:15:25.619 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided First Name 
+07:15:25.884 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Last Name 
+07:15:26.088 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Email 
+07:15:26.236 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Telephone 
+07:15:26.357 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Password 
+07:15:26.479 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Confrmed Password 
+07:15:26.593 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Set Privacy Policy 
+07:15:29.251 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue 
+07:15:29.302 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Account Registration Success 
+07:15:29.304 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration -  Finished TC_001_AccountRegistration 
+19:28:31.202 [TestNG-tests-1] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+19:28:31.218 [TestNG-tests-1] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+19:28:31.218 [TestNG-tests-1] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+19:28:31.265 [TestNG-tests-1] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3beb35
+19:28:31.296 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+19:28:31.296 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+19:28:31.296 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 8
+19:28:31.296 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+19:28:31.296 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+19:28:31.296 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+19:28:31.296 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: available
+19:28:31.296 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+19:28:31.296 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+19:28:31.421 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+19:28:31.421 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+19:28:31.421 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\GUDU\AppData\Local\Temp (java.io.tmpdir)
+19:28:31.421 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 32 (sun.arch.data.model)
+19:28:31.421 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: 259522560 bytes
+19:28:31.421 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+19:28:31.421 [TestNG-tests-1] DEBUG io.netty.util.internal.CleanerJava6 - java.nio.ByteBuffer.cleaner(): available
+19:28:31.421 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+19:28:31.468 [TestNG-tests-1] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+19:28:31.499 [TestNG-tests-1] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+19:28:31.499 [TestNG-tests-1] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+19:28:31.624 [TestNG-tests-1] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+19:28:31.639 [TestNG-tests-1] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA]
+19:28:31.718 [TestNG-tests-1] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 4
+19:28:31.734 [TestNG-tests-1] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+19:28:31.734 [TestNG-tests-1] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+19:28:31.765 [TestNG-tests-1] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@15e3d0e
+19:28:31.765 [TestNG-tests-1] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@93920b
+19:28:31.765 [TestNG-tests-1] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@c5761a
+19:28:31.765 [TestNG-tests-1] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@9caa1f
+19:28:31.796 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 2
+19:28:31.796 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 2
+19:28:31.796 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+19:28:31.796 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 11
+19:28:31.796 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 16777216
+19:28:31.796 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+19:28:31.796 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+19:28:31.796 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+19:28:31.796 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+19:28:31.796 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+19:28:31.796 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: true
+19:28:31.796 [TestNG-tests-1] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+19:28:31.812 [TestNG-tests-1] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+19:28:31.812 [TestNG-tests-1] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+19:28:31.812 [TestNG-tests-1] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+19:28:34.426 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 1812 (auto-detected)
+19:28:34.426 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+19:28:34.426 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+19:28:34.491 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+19:28:34.522 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+19:28:34.618 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 00:22:5f:ff:fe:16:d0:f8 (auto-detected)
+19:28:34.711 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+19:28:34.711 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+19:28:34.711 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@9ec547
+19:28:34.758 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+19:28:34.758 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+19:28:34.758 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+19:28:34.758 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+19:28:34.758 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.delayedQueue.ratio: 8
+19:30:16.000 [TestNG-tests-1] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x216fe6b4bf18b888
+19:30:16.063 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+19:30:17.311 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration -  Starting TC_001_AccountRegistration 
+19:30:30.017 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed 
+19:30:32.189 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on My Account 
+19:30:35.453 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Register 
+19:30:36.945 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided First Name 
+19:30:37.128 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Last Name 
+19:30:37.337 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Email 
+19:30:37.455 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Telephone 
+19:30:37.666 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Password 
+19:30:37.784 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Provided Confrmed Password 
+19:30:37.880 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Set Privacy Policy 
+19:30:40.634 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue 
+19:30:40.687 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration - Account Registration Success 
+19:30:40.691 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistration -  Finished TC_001_AccountRegistration 
+19:31:27.801 [TestNG-tests-1] INFO  testCases.TC_002_Login - Launched Chrome Browser
+19:31:27.809 [TestNG-tests-1] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+19:31:38.108 [TestNG-tests-1] INFO  testCases.TC_002_Login - Home Page Displayed 
+19:31:38.327 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked on My Account 
+19:31:40.112 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked on Login 
+19:31:40.422 [TestNG-tests-1] INFO  testCases.TC_002_Login - Provided Email 
+19:31:40.572 [TestNG-tests-1] INFO  testCases.TC_002_Login - Provided Password 
+19:31:43.228 [TestNG-tests-1] INFO  testCases.TC_002_Login - Clicked on Login
+19:31:43.658 [TestNG-tests-1] INFO  testCases.TC_002_Login - Login Success 
+19:31:43.658 [TestNG-tests-1] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+19:31:45.460 [AsyncHttpClient-1-4] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-4
